@@ -1,2 +1,1 @@
-# STH
-STH
+# Suspension Tuning Helper - STH
